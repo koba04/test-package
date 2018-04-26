@@ -4,4 +4,4 @@ This is a test package
 
 ## version
 
-0.2.0
+0.4.0

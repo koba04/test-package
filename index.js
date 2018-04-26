@@ -1,1 +1,1 @@
-console.log('This is a test package! v0.2.0');
+console.log('This is a test package! v0.4.0');
